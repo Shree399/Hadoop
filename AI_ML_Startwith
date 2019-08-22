@@ -1,0 +1,14 @@
+import sys
+import pandas as pd
+import matplotlib as mt
+import numpy as np
+import scipy as sp
+import IPython  as ip
+import sklearn as sk
+print("Python Version:{}".format(sys.version))
+print("Pandas Version:{}".format(pd.__version__))
+print("matplotlib Version:{}".format(mt.__version__))
+print("numpy Version:{}".format(np.__version__))
+print("Scipy Version:{}".format(sp.__version__))
+print("IPython Version:{}".format(ip.__version__))
+print("sklearn Version:{}".format(sk.__version__))
