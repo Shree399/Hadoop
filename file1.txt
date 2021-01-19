@@ -1,6 +1,3 @@
 Hello Git, what next
-<<<<<<< HEAD
 Sree:This is what we will test today
-=======
 Mac:This is what we will test today
->>>>>>> 0884c15b2823524438a46af63d06607e2e014525
