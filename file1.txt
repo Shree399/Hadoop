@@ -1,5 +1,5 @@
 Hello Git, what next
 Sree:This is what we will test today
 Mac:This is what we will test today
-
+This line is modified by Mac
 nextline
