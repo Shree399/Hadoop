@@ -1,2 +1,2 @@
 Hello Git, what next
-This is what we will test today
+Mac:This is what we will test today
